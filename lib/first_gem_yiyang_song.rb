@@ -6,6 +6,6 @@ class String
 	end
 
 	def unique_words
-		sel.split.uniq
+		self.split.uniq
 	end
 end

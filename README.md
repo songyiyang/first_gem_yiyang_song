@@ -1,5 +1,8 @@
 # FirstGemYiyangSong
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_yiyang_song.png)](http://badge.fury.io/rb/first_gem_yiyang_song)
+
+
 TODO: Write a gem description
 
 ## Installation
